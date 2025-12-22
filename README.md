@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<meta name="google-site-verification" content="zEr6NktJOaXowuOGJALN97Q7o1s6RA3m3Hw4lBAjcEc" />
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="zEr6NktJOaXowuOGJALN97Q7o1s6RA3m3Hw4lBAjcEc" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Fire Community Hub & Analytics</title>
