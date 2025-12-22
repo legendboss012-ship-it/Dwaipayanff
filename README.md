@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="google-site-verification" content="zEr6NktJOaXowuOGJALN97Q7o1s6RA3m3Hw4lBAjcEc" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Fire Community Hub & Analytics</title>
@@ -15,6 +14,7 @@
         .glass-panel { background: rgba(255, 255, 255, 0.9); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
     </style>
 </head>
+    <meta name="google-site-verification" content="zEr6NktJOaXowuOGJALN97Q7o1s6RA3m3Hw4lBAjcEc" />
 <body class="bg-slate-50 min-h-screen flex flex-col">
 
     <!-- Chosen Palette: Warm Neutrals with Free Fire Orange/Yellow Accents -->
