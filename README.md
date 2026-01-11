@@ -6,7 +6,28 @@
         <meta name="monetag" content="5aa306ea7984abf1e5af16b451c479ba">
         <!-- Google Search Console Verification -->
         <meta name="google-site-verification" content="zEr6NktJOaXowuOGJALN97Q7o1s6RA3m3Hw4lBAjcEc" />
-    
+    <script>
+  // 1. Create a new division (container) for your payment info
+  const paymentSection = document.createElement('div');
+
+  // 2. Style it so it looks nice (Centered)
+  paymentSection.style.textAlign = 'center';
+  paymentSection.style.marginTop = '20px';
+  paymentSection.style.fontFamily = 'Arial, sans-serif';
+
+  // 3. Insert the HTML content (Image + Bold Text)
+  paymentSection.innerHTML = `
+      <img src="https://i.ibb.co/Kx5jBvpN/Paytm-QRcode-1768137322803.png" alt="Paytm QR Code" width="200">
+      <br><br>
+      <strong>Upi id - dwaipayanbhai@ptsbi</strong>
+      <br>
+      <strong>And email - legendboss012@gmail.com</strong>
+  `;
+
+  // 4. Append this section to the body of your webpage
+  document.body.appendChild(paymentSection);
+</script>
+
     <title>Free Fire Community Hub & Analytics</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
