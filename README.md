@@ -11,6 +11,13 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
+    <div style="text-align: center; margin: 20px 0;">
+    <img src="https://i.ibb.co/Kx5jBvpN/Paytm-QRcode-1768137322803.png" alt="Paytm QR Code" width="200">
+    <br><br>
+    <strong>Upi id - dwaipayanbhai@ptsbi</strong>
+    <br>
+    <strong>And email - legendboss012@gmail.com</strong>
+</div>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
         body { font-family: 'Inter', sans-serif; background-color: #f8fafc; color: #1e293b; }
         .chart-container { position: relative; width: 100%; max-width: 600px; margin-left: auto; margin-right: auto; height: 300px; max-height: 400px; }
